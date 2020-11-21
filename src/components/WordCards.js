@@ -5,8 +5,7 @@ const StyledWrapper = Styled.div`
 box-shadow: 0 0 6px 0 rgba(0,0,0,0.5);
 margin: 16px;
 padding: 8px;
-width: 15%;
-    height: 16%;
+
 .top{
     display: flex;
     justify-content: space-between;
